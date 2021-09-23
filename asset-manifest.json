@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/material-ui-Portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/material-ui-Portfolio/static/js/main.16c97072.chunk.js",
+    "main.js.map": "/material-ui-Portfolio/static/js/main.16c97072.chunk.js.map",
+    "runtime-main.js": "/material-ui-Portfolio/static/js/runtime-main.7c223bd8.js",
+    "runtime-main.js.map": "/material-ui-Portfolio/static/js/runtime-main.7c223bd8.js.map",
+    "static/css/2.f2512455.chunk.css": "/material-ui-Portfolio/static/css/2.f2512455.chunk.css",
+    "static/js/2.9dca8fcc.chunk.js": "/material-ui-Portfolio/static/js/2.9dca8fcc.chunk.js",
+    "static/js/2.9dca8fcc.chunk.js.map": "/material-ui-Portfolio/static/js/2.9dca8fcc.chunk.js.map",
+    "static/js/3.c55b788b.chunk.js": "/material-ui-Portfolio/static/js/3.c55b788b.chunk.js",
+    "static/js/3.c55b788b.chunk.js.map": "/material-ui-Portfolio/static/js/3.c55b788b.chunk.js.map",
+    "index.html": "/material-ui-Portfolio/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/material-ui-Portfolio/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/material-ui-Portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9dca8fcc.chunk.js.LICENSE.txt": "/material-ui-Portfolio/static/js/2.9dca8fcc.chunk.js.LICENSE.txt",
+    "static/media/countdown.1318c4a2.png": "/material-ui-Portfolio/static/media/countdown.1318c4a2.png",
+    "static/media/css.ae7c3444.jpg": "/material-ui-Portfolio/static/media/css.ae7c3444.jpg",
+    "static/media/javascript.bd9f05a8.jpg": "/material-ui-Portfolio/static/media/javascript.bd9f05a8.jpg",
+    "static/media/mongo.711297d4.jpg": "/material-ui-Portfolio/static/media/mongo.711297d4.jpg",
+    "static/media/slider.590ec6f2.jpg": "/material-ui-Portfolio/static/media/slider.590ec6f2.jpg",
+    "static/media/slider1.7ee9666e.jpg": "/material-ui-Portfolio/static/media/slider1.7ee9666e.jpg",
+    "static/media/slider2.939118fb.jpg": "/material-ui-Portfolio/static/media/slider2.939118fb.jpg",
+    "static/media/slider3.0d6090b4.jpg": "/material-ui-Portfolio/static/media/slider3.0d6090b4.jpg",
+    "static/media/stopwatch.25e1c87c.png": "/material-ui-Portfolio/static/media/stopwatch.25e1c87c.png",
+    "static/media/tic tac to.229b3113.png": "/material-ui-Portfolio/static/media/tic tac to.229b3113.png",
+    "static/media/todo.e469b85f.png": "/material-ui-Portfolio/static/media/todo.e469b85f.png",
+    "static/media/web.d034e367.png": "/material-ui-Portfolio/static/media/web.d034e367.png",
+    "static/media/whatsapp.2b172362.jpg": "/material-ui-Portfolio/static/media/whatsapp.2b172362.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c223bd8.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.9dca8fcc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.16c97072.chunk.js"
+  ]
+}

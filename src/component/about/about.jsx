@@ -76,7 +76,7 @@ function About() {
                 
               </ul>
             </Typography>
-    <Button variant="contained" href="https://github.com/">Go to Github </Button>
+    <Button variant="contained" href="https://github.com/Shaharyar-S-Rehman">Go to Github </Button>
 
           </CardContent>
         </Card>
